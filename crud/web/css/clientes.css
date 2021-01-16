@@ -1,0 +1,26 @@
+body{
+    padding: 30px;
+    margin: 0;
+    background-image: url('../img/bg.jpg');
+    
+}
+.table table-border {
+  
+  padding: 10px;
+  width: 280px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: white;
+}
+.titulo{
+    color: white;
+    text-transform: uppercase;
+}
+
+.tr{
+    color: white;
+    text-align: center;
+}
+

@@ -1,0 +1,29 @@
+body{
+    padding: 30px;
+    margin: 0;
+    background-image: url('../img/bg.jpg');
+    
+}
+.titulo{
+    color: white;
+    text-transform: uppercase;
+    
+}
+
+table table-border{
+  width: 280px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: white;
+}
+.tr{
+    color: white;
+}
+.boton1 button[type="submit"]{
+    background: black;
+    color: white;
+    border-radius: 10px;
+    
+}
